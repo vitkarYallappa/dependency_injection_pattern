@@ -1,0 +1,19 @@
+{
+  "name": "dependency_injection_pattern",
+  "version": "1.0.0",
+  "description": "Dependency Injection (DI) is a design pattern that promotes loose coupling by allowing dependencies to be injected into a module or class rather than being instantiated internally",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
